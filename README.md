@@ -48,6 +48,9 @@ To customize the project, you can:
 - Adjust the color scale in `script.js` to change the crime rate visualization.
 - Modify the `styles.css` file to alter the map's appearance and label styles.
 
+## License
+This project is licensed under the MIT License. For more information, see the [LICENSE](./LICENSE) file.
+
 ## Contributions
 Contributions are welcome! If you would like to contribute, please fork the repository and submit a pull request with your changes.
 
