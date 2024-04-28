@@ -26,7 +26,7 @@ Open the `index.html` file in a web browser to view the interactive map.
 - `data.geojson`: GeoJSON file with NYC neighborhoods and crime rate data.
 
 ## Data Source
-The crime rate data used in this project is sourced from publicly available NYC crime statistics.
+The crime rate data used in this project is sourced from publicly available NYC crime statistics. The dataset and the project was inspired from Ben Wellington. The article can be found here: https://iquantny.tumblr.com/post/136641945194/your-neighborhoods-crime-rank-insights-from-the
 
 ## Inferences
 
