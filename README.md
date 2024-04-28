@@ -2,7 +2,7 @@
 
 This project is an interactive map that visualizes crime rates in New York City (NYC) using Leaflet.js for mapping and Chroma.js for color scales. It displays NYC neighborhoods with color coding based on crime rates, along with interactive elements like tooltips, custom labels, and a legend.
 
-![Uploading Screenshot 2024-04-27 at 7.02.58 PM.png…]()
+![alt text](https://github.com/rayidali4/rayidali4.github.io/blob/4329b13111eb6ff65aa43c8a42a618723d248f55/Screenshot%202024-04-27%20at%207.02.58%20PM.png)
 
 
 ## Features
