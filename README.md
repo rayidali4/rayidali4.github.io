@@ -26,17 +26,18 @@ Open the `index.html` file in a web browser to view the interactive map.
 - `data.geojson`: GeoJSON file with NYC neighborhoods and crime rate data.
 
 ## Data Source
-The crime rate data used in this project is sourced from publicly available NYC crime statistics. Ensure you have the proper rights to use this data if it's external or proprietary.
+The crime rate data used in this project is sourced from publicly available NYC crime statistics.
 
 ## Inferences
 
 When reviewing the interactive NYC crime rate map, the following conclusions can be drawn:
 
 - **High Crime Areas**: Some neighborhoods in NYC with higher crime rates are:
-  - Brownsville
-  - East New York
-  - Midtown Manhattan
-  - Hunts Point
+  - Midtown-Midtown South (Manhattan)
+  - Hunts Point (Bronx)
+  - Ocean Hill (Brooklyn)
+  - East New York (Brooklyn)
+  - Melrose South-Mott Haven North (Bronx)
 
 - **Areas to Avoid**: To stay on the safe side, consider avoiding the following areas:
   - Parts of Brooklyn that are far east
