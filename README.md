@@ -59,5 +59,6 @@ For questions or issues, please open an [issue](https://github.com/rayidali4/ray
 
 ## Creator
 This project was created by Rayid Ali. For any inquiries, you can reach me at rayidam@g.clemson.edu.
+The dataset and the project was inspired from Ben Wellington. The article can be found here: https://iquantny.tumblr.com/post/136641945194/your-neighborhoods-crime-rank-insights-from-the
 
 
